@@ -1,0 +1,25 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative shapes -->
+  <circle cx="150" cy="100" r="80" fill="white" opacity="0.1"/>
+  <circle cx="700" cy="350" r="100" fill="white" opacity="0.1"/>
+  <rect x="500" y="50" width="150" height="150" fill="white" opacity="0.05" rx="20"/>
+  
+  <!-- Main text -->
+  <text x="400" y="150" font-size="56" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Welcome to DigitalFlow</text>
+  <text x="400" y="220" font-size="28" text-anchor="middle" fill="white" opacity="0.9" font-family="Arial">Your Premier Digital Marketing Agency</text>
+  <text x="400" y="280" font-size="18" text-anchor="middle" fill="white" opacity="0.8" font-family="Arial">Transform Your Business Through Innovative Solutions</text>
+  
+  <!-- CTA Button representation -->
+  <rect x="300" y="320" width="200" height="50" fill="white" rx="5"/>
+  <text x="400" y="352" font-size="18" font-weight="bold" text-anchor="middle" fill="#667eea" font-family="Arial">Explore Services</text>
+</svg>
